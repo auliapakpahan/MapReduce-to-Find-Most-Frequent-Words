@@ -1,1 +1,2 @@
 # MapReduce-to-Find-Most-Frequent-Words
+Following are the steps for implementing word count using MapReduce Hadoop based on text input in the input.txt file. The steps for carrying out the task are to produce the appropriate output, which is to produce the number of occurrences of words contained in the document, so that the program code can display the word order (sort) based on the number of word occurrences (Max to Min). But in the output, preprocessing data has not been applied so punctuation is still counted.
